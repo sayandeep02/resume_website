@@ -1,6 +1,6 @@
 # Developer Portfolio
 
-[**Check out Mine!**](https://resume-website-sayandeep02s-projects.vercel.app/  {:target="_blank"} ).
+[**Check out Mine!**](https://resume-website-sayandeep02s-projects.vercel.app/).
 
 This bad boy is designed to help you create a professional portfolio website that will make your competition quiver. With its sleek design and easy customization options, you'll have your portfolio up and running in no time.
 
