@@ -1,0 +1,54 @@
+{
+  "name": "Sayandeep Dey",
+  "tagline": " Data Science Enthusiast ",
+  "twitter": "https://twitter.com/SayandeepDey6",
+  "linkedin": "https://www.linkedin.com/in/sayandeepdey4/",
+  "github": "https://github.com/sayandeep02",
+  "about": "An innovator, passionate about Artificial Intelligence and it's applications. Currently engineering solutions for PwC.",
+  "experience": [
+    {
+      "role": "Analyst Intern",
+      "company": "PricewaterhouseCoopers Services LLP",
+      "from": "june 2021",
+      "to": "Present"
+    },
+    {
+      "role": "Trainee Intern",
+      "company": "Siemens",
+      "from": "Nov 2020",
+      "to": "May 2020"
+    }
+  ],
+  "skills": [
+    "devicon-python-plain-wordmark",
+    "devicon-tailwindcss-original-wordmark",
+    "devicon-scikitlearn-plain",
+    "devicon-pytorch-plain-wordmark",
+    "devicon-visualstudio-plain",
+    "devicon-cplusplus-line",
+    "devicon-flask-original-wordmark",
+    "devicon-tensorflow-line-wordmark",
+    "devicon-mysql-plain-wordmark",
+    "devicon-github-original-wordmark",
+    "devicon-mongodb-plain-wordmark",
+    "devicon-matplotlib-plain-wordmark"
+  ],
+  "projects": [
+    {
+      "name": "Medical_Data_Extraction",
+      "description": "OCR based Medical Data Extraction Project",
+      "link": "https://github.com/sayandeep02/Medical_Data_Extraction"
+    },
+    {
+      "name": "deep-sudoku-solver",
+      "description": "AI based sudoku solver which can solve sudoku by processing its image",
+      "link": "https://github.com/sayandeep02/deep-sudoku-solver"
+    },
+    {
+      "name": "breast_cancer_detection",
+      "description": "Deep Learning based breast cancer detection model",
+      "link": "https://github.com/sayandeep02/breast_cancer_detection"
+    }
+  ],
+  "contact": "sayandeepdey4@gmail.com"
+}
