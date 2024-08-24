@@ -48,6 +48,11 @@
       "name": "breast_cancer_detection",
       "description": "Deep Learning based breast cancer detection model",
       "link": "https://github.com/sayandeep02/breast_cancer_detection"
+    },
+    {
+      "name": "credit-card-fraud-detection",
+      "description": "Handle imbalanced dataset by applying SMOTE and Random Under-Sampling, plus removing the extreme outliers, compare which technique fits best to handle the imbalanced datasaet, Optimized Logistic, K-Nearest Neighbor, Support Vector Machine, and Random Forest Regressors using GridsearchCV to reach the best model.",
+      "link": "https://github.com/sayandeep02/credit-card-fraud-detection"
     }
   ],
   "contact": "sayandeepdey4@gmail.com"
