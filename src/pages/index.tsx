@@ -120,7 +120,7 @@ export default function Home() {
       </main>
       <footer className="fixed bottom-0 w-full p-2 flex justify-center overflow-hidden bg-white dark:bg-black dark:text-white">
         <span className="text-xs font-mono text-center dark:text-white">
-          <a href="https://https://github.com/sayandeep02" className="hover:underline">
+          <a href="https://github.com/sayandeep02" className="hover:underline">
             developed by Sayandeep Dey
           </a>
         </span>
